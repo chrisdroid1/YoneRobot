@@ -65,4 +65,5 @@ textblob
 nudepy
 
 motor
-cloudscraper
+cloudscrapper
+pymongo[srv]
